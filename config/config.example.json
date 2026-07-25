@@ -1,0 +1,22 @@
+{
+  "profile_url": "",
+  "sample_note_url": "",
+  "max_notes": 0,
+  "headless": false,
+  "download_path": "./output/xhs-live-photo-backup",
+  "retry": 3,
+  "delay_range": [2, 5],
+  "download_wait_seconds": 30,
+  "manual_on_fail": false,
+  "manual_prompt_limit": 5,
+  "save_button_texts": ["保存", "下载"],
+  "xhs_downloader_path": "./tools/XHS-Downloader",
+  "xhs_downloader_python": "python3",
+  "xhs_downloader_work_path": "./output/xhs-downloader",
+  "xhs_downloader_folder_name": "Download",
+  "xhs_downloader_cookie": "",
+  "xhs_downloader_image_format": "HEIC",
+  "xhs_downloader_live_download": true,
+  "xhs_downloader_download_record": false,
+  "xhs_downloader_batch_size": 20
+}
